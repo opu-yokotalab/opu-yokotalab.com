@@ -1,13 +1,12 @@
 # Site settings
 title: "岡山県立大学・横田研究室"
-email: your-email@domain.com
+email: admin@opu-yokotalab.com
 description: > # this means to ignore newlines until "baseurl:"
   2014年3月末まで岡山県立大学情報工学部情報通信工学科に在籍されていた横田一正教授の
   研究室（知能メディア工学研究室）に関する情報を公開しています。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://opu-yokotalab.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  opu-yokotalab
 
 # Build settings
 markdown: kramdown
