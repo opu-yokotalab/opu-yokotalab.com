@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+2014年3月末をもって「散開」した、岡山県立大学情報工学部情報通信工学科横田研究室のWebサイトです。
+研究室の歴史、所属メンバー、外部発表などの諸資料、研究成果などのアーカイブが中心です。
+その他、最新情報も掲載していく予定です。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+## 教員の現在
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+- 横田一正教授（当時）： 2014年4月より、岡山県立大学の特任教授に就任されています。
+- 国島丈生准教授（当時）：引き続き、岡山県立大学情報工学部情報通信工学科の准教授として、教育・研究活動を行っています。
