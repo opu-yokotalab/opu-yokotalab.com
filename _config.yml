@@ -10,4 +10,4 @@ github_username:  opu-yokotalab
 
 # Build settings
 markdown: kramdown
-exclude: [ "Gemfile", "Gemfile.lock", "s3_website.yml" ]
+exclude: [ "Gemfile", "Gemfile.lock", "s3_website.yml", "vendor" ]
